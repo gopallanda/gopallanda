@@ -13,7 +13,7 @@
 <td width="35%" align="center">
 
 <!-- Replace the image link with your own -->
-<img src="YOUR_IMAGE_LINK_HERE" alt="Gopal Landa" width="220" style="border-radius:50%;" />
+<img src="Gopal_photo.png" alt="Gopal Landa" width="220" style="border-radius:50%;" />
 
 </td>
 
@@ -36,10 +36,13 @@
   <div align="center">
     <h3>🚀 My Tech Stack</h3>
     <div>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" style="margin: 10px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="60" style="margin: 10px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="60" style="margin: 10px;" />
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" style="margin: 10px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="60" style="margin: 10px;" />
+      <img src="ML_img.jpg" alt="ML" height="60" style="margin: 10px;" />
+      <img src="deep-learning.jpg" alt="DL" height="60" style="margin: 10px;" />
+      <img src="GenAi.webp" alt="GenAI" height="60" style="margin: 10px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="60" style="margin: 10px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="60" style="margin: 10px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="60" style="margin: 10px;" />
     </div>
   </div>
 </div>
@@ -50,21 +53,21 @@
 ### 🌟 Featured Projects  
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-  <a href="https://agrovision-sih.vercel.app/" style="text-decoration: none;">
+  <a href="https://agrovision-wheat.vercel.app/" style="text-decoration: none;">
     <button style="background-color: black; color: white; border: none; border-radius: 30px; padding: 15px 25px; font-size: 16px; font-weight: bold; cursor: pointer; transition: transform 0.3s;">
-      AgroVision 🌾
+      AgroVision 🌾 |
     </button>
   </a>
 
-  <a href="https://picaura.vercel.app/" style="text-decoration: none;">
+  <a href="https://impact-sense.vercel.app/" style="text-decoration: none;">
     <button style="background-color: black; color: white; border: none; border-radius: 30px; padding: 15px 25px; font-size: 16px; font-weight: bold; cursor: pointer; transition: transform 0.3s;">
-      PicAura 🎨
+      ImpactSense 🌍 |
     </button>
   </a>
 
-  <a href="https://passnest-manager.vercel.app/" style="text-decoration: none;">
+  <a href="https://archaeological-site-mapping.vercel.app/" style="text-decoration: none;">
     <button style="background-color: black; color: white; border: none; border-radius: 30px; padding: 15px 25px; font-size: 16px; font-weight: bold; cursor: pointer; transition: transform 0.3s;">
-      PassNest 🔐
+      Archaeological Site Mapping |
     </button>
   </a>
 
@@ -80,10 +83,10 @@
 
 ### 🌐 Connect With Me  
 <div align="center">
-  <a href="https://www.linkedin.com/in/talagana-rajesh-75a546289/">
+  <a href="https://www.linkedin.com/in/landa-gopal-247613290/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:talaganarajesh@gmail.com">
+  <a href="mailto:landagopal98@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
   <a href="https://talaganarajesh.vercel.app">
@@ -92,14 +95,18 @@
 </div>
 
 ---
-
+### Github Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TalaganaRajesh&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TalaganaRajesh&theme=radical" alt="Streak Stats" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gopallanda&theme=radical" alt="Streak Stats" width="400" />
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=gopallanda&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile Views" />
 </div>
 
 ---
 
+### 📈 GitHub Contribution Activity
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TalaganaRajesh&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile Views" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gopallanda&theme=github-dark&area=true&hide_border=true" />
 </div>
